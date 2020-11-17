@@ -1,0 +1,13 @@
+target/
+*.db
+none
+tmp/
+routes/
+test-results/3
+revel/revel
+
+# editor
+*.swp
+
+.idea/
+*.iml
